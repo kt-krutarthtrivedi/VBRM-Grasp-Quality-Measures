@@ -5,6 +5,6 @@ The aim is to analyze various grasp quality measures as explaind in
 
 Problem Statement:
 
-![problem](https://drive.google.com/file/d/1rdwgH85hWEq9TDFp_mzEoeRuYA5vUWtD/view?usp=drive_link)
+![problem](https://github.com/kt-krutarthtrivedi/VBRM-Grasp-Quality-Measures/blob/main/media/Problem%20Statement.png)
 
 Using the grasp quality measures explained in the paper above, we try to find the best way of applying 5th force vector to make the grasp more stable and reliable.
